@@ -1,11 +1,1 @@
-1. ΟΔΗΓΙΕΣ ΕΚΤΕΛΕΣΗΣ
-Στον ίδιο φάκελο θα πρέπει να περιέχονται τα αρχεία:
-utils.py
-points.txt
-erotima2.py
-
-Για εκτέλεση πληκτρολογούμε:
-
-python -m unittest erotima2.py
-
-2. Το αρχείο mypoints.txt περιέχει τις συντεταγμένες 100 σημείων που δημιουργήθηκαν τυχαία
+Read me files are included for each exercise in their respective branches 
