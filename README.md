@@ -24,10 +24,10 @@ This repository serves as a comparative study of programming languages and their
 ## 📂 Repository Structure & Branches
 To view the code, theoretical background, and documentation for a specific assignment, switch to the corresponding branch:
 
-- **[`assignment-1-cartesian`](https://github.com/ntontouu/Concepts-of-Programming-Languages/tree/assignment-1-cartesian)**: Implementation of Cartesian coordinate mathematics and file parsing in Python.
-- **[`assignment-2-chess`](https://github.com/ntontouu/Concepts-of-Programming-Languages/tree/assignment-2-chess)**: Text processing and statistical analysis of Chess matches (PGN) using Regular Expressions (RegEx).
-- **[`assignment-3-gui-game`](https://github.com/ntontouu/Concepts-of-Programming-Languages/tree/assignment-3-gui-game)**: Event-driven programming via a Colour Changing Game with a Graphical User Interface.
-- **[`assignment-4-sorting`](https://github.com/ntontouu/Concepts-of-Programming-Languages/tree/assignment-4-sorting)**: Algorithmic benchmarking and paradigm comparison (Python vs. Haskell) for sorting massive datasets of 3D points.
+- **[`Cartesian-Coordinates`](https://github.com/ntontouu/Concepts-of-Programming-Languages/tree/Cartesian-Coordinates)**: Implementation of Cartesian coordinate mathematics and file parsing in Python.
+- **[`Chess-Game-Stats`](https://github.com/ntontouu/Concepts-of-Programming-Languages/tree/Chess-Game-Stats)**: Text processing and statistical analysis of Chess matches (PGN) using Regular Expressions (RegEx).
+- **[`Colour-Changing-Guessing-Game-w-GUI`](https://github.com/ntontouu/Concepts-of-Programming-Languages/tree/Colour-Changing-Guessing-Game-w-GUI)**: Event-driven programming via a Colour Changing Game with a Graphical User Interface.
+- **[`Sorting-Points-Python-vs-Haskell`](https://github.com/ntontouu/Concepts-of-Programming-Languages/tree/Sorting-Points-Python-vs-Haskell)**: Algorithmic benchmarking and paradigm comparison (Python vs. Haskell) for sorting massive datasets of 3D points.
 
 ---
 
